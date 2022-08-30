@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Priyanshupuri0/learn-react/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "1057ca8ef88783f6413a0a94ad99ee9d",
+    "revision": "c55b269949e5c5afbc49a468701f1d82",
     "url": "/Priyanshupuri0/learn-react/index.html"
   }
 ];
