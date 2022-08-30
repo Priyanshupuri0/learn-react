@@ -36,3 +36,72 @@
     transform: rotate(360deg);
   }
 }
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.Header{
+  background: black;
+  color: white;
+  font-weight: bold;
+  overflow: hidden;
+}
+.header{
+  float: left;
+}
+.header ul{
+  display: flex;
+  flex-wrap: wrap;
+}
+.header ul li{
+ list-style: none;
+ margin: 10px;
+}
+.header ul a{
+  text-decoration: none;
+  color: white;
+}
+.header1 ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: right;
+}
+.header1 ul li{
+  list-style: none;
+  margin: 10px;
+}
+.header1 ul a{
+  text-decoration: none;
+  color: aqua;
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  font-weight: bold;
+}
+.footer ul{
+  display: flex;
+  justify-content: right;
+}
+.footer ul li{
+  list-style: none;
+  margin: 10px;
+}
+.footer a{
+  text-decoration: none;
+  color: white;
+}
+p{
+  float: left;
+  margin: 10px;
+}
+.MainBlock{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
